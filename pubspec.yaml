@@ -59,6 +59,7 @@ dependencies:
   carousel_slider: ^4.2.1
   mailer: ^6.0.1
   url_launcher: ^6.2.4
+  flutter_dotenv: ^5.1.0
 
  
 
